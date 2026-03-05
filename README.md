@@ -17,7 +17,9 @@ Python is a widely used programming language known for its simplicity and readab
 3. Download the Windows installer (64-bit version).
 
 ⚠ Make sure you download the correct installer file. The file name should look like:
+`
 python-3.x.x-amd64.exe
+`
 Avoid downloading files such as "python-manager".
 
 4. Run the installer.
@@ -46,11 +48,11 @@ Python 3.13.12
 
 ## Running Your First Program
 
-Open Python and run:
+Open the Python interpreter and run:
 ```
 print("Hello, World!")
 ```
-Output:
+The output should appear directly below the command. Output:
 ```
 Hello, World!
 ```
