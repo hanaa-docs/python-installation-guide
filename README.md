@@ -34,18 +34,26 @@ On the first installation screen:
 ## Verifying Installation
 
 Open Command Prompt and run:
+```
 python --version
+```
 Example output:
+```
 Python 3.13.12
+```
 
 ---
 
 ## Running Your First Program
 
 Open Python and run:
+```
 print("Hello, World!")
+```
 Output:
+```
 Hello, World!
+```
 
 Congratulations! You have successfully run your first Python program.
 
