@@ -16,10 +16,12 @@ Python is a widely used programming language known for its simplicity and readab
 2. Click **Downloads**, then select **Windows**.  
 3. Download the Windows installer (64-bit version).
 
-⚠ Make sure you download the correct installer file. The file name should look like:
+⚠ Make sure you download the correct installer file. The file name should look like:  
+
 `
 python-3.x.x-amd64.exe
-`
+`  
+
 Avoid downloading files such as "python-manager".
 
 4. Run the installer.
